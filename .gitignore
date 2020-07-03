@@ -65,5 +65,5 @@ node_modules/
 .env
 
 .DS_Store
-assets/
+assets/img
 Old/
