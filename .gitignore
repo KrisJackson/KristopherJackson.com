@@ -67,3 +67,5 @@ node_modules/
 .DS_Store
 assets/img
 Old/
+.firebaserc
+firebase.json
